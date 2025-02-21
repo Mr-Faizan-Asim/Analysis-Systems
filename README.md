@@ -1,4 +1,2 @@
-This is my Repositoy.
-I am a student of Data Science
-My name: Muhammad Danish
-Roll No: 2024-DS-54
+My name is Abdullah Amjad
+Reg ID: 2024-DS-37
