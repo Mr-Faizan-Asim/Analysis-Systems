@@ -1,7 +1,7 @@
 # Analysus
 
 ## Overview
-**Analysus** is a data-driven project focused on performance analysis using **Power BI**. This repository contains two separate projects:
+This is a data-driven project focused on performance analysis using **Power BI**. This repository contains two separate projects:
 
 1. **Instrument Performance Analysis**
 2. **Employee Performance Analysis**
